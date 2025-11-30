@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Ashton
 
-<!--
-**ashtonckj/ashtonckj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm a Diploma Computer Science student obsessed with programming and building cool things.**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Technical Skills  
+**Languages:** C++, Java, Kotlin, Python, SQL, Assembly (x86)  
+**Core Knowledge:** OOP, DBMS, Data Structures & Algorithms, Basic Networking  
+**Frameworks:** Tkinter, Jetpack Compose  
+
+---
+
+## 🔧 Tools I Use
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio%202022-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Oracle SQL*Plus](https://img.shields.io/badge/Oracle_SQL*Plus-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![DOSBox](https://img.shields.io/badge/DOSBox-000000?style=for-the-badge&logo=msdos&logoColor=white)
+
+---
+
+## 🎨 Creative Tools  
+Adobe Premiere Pro · Canva · Figma  
+
+---
+
+## 🌱 What I'm Working On  
+- Building school and personal projects  
+- Improving my problem-solving skills  
+- Learning new tools and frameworks  
+
+---
+
+## 📫 Contact  
+https://www.linkedin.com/in/ashton-chew-5ba62538a/
