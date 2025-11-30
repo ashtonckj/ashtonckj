@@ -33,4 +33,4 @@ Adobe Premiere Pro · Canva · Figma
 ---
 
 ## 📫 Contact  
-https://www.linkedin.com/in/ashton-chew-5ba62538a/
+https://www.linkedin.com/in/ashtonckj/
