@@ -5,7 +5,7 @@
 ---
 
 ## 🧠 Technical Skills  
-**Languages:** C++, Java, Kotlin, Python, SQL, Assembly (x86), HTML, CSS, Javascript, Classic ASP  
+**Languages:** C++, Java, Kotlin, Python, SQL, Assembly (x86), HTML, CSS, Javascript, Classic ASP, TypeScript  
 **Core Knowledge:** OOP, DBMS, Data Structures & Algorithms, Basic Networking  
 **Frameworks:** Tkinter, Jetpack Compose  
 
