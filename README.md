@@ -32,5 +32,13 @@ Adobe Premiere Pro · Canva · Figma
 
 ---
 
+## Open Source Contributions
+
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/ashtonckj/badge.svg)](https://hub.xerj.org/contributors/ashtonckj)
+
+Recognised as a contributor to the XERJ Corpus Hub through my work on [Classic ASP Language Support](https://github.com/ashtonckj/Classic-ASP-Language-Support).
+
+---
+
 ## 📫 Contact  
 https://www.linkedin.com/in/ashtonckj/
