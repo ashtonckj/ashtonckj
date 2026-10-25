@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 Technical Skills  
+## 🧠 Technical Skills
 **Languages:** C++, Java, Kotlin, Python, SQL, Assembly (x86), HTML, CSS, Javascript, Classic ASP, TypeScript  
 **Core Knowledge:** OOP, DBMS, Data Structures & Algorithms, Basic Networking  
 **Frameworks:** Tkinter, Jetpack Compose  
@@ -20,15 +20,15 @@
 
 ---
 
-## 🎨 Creative Tools  
-Adobe Premiere Pro · Canva · Figma  
+## 🎨 Creative Tools
+Adobe Premiere Pro · Canva · Figma · LibreSprite
 
 ---
 
-## 🌱 What I'm Working On  
-- Building school and personal projects  
-- Improving my problem-solving skills  
-- Learning new tools and frameworks  
+## 🌱 What I'm Working On
+- Building school and personal projects
+- Improving my problem-solving skills
+- Learning new tools and frameworks
 
 ---
 
@@ -48,5 +48,5 @@ Created [Purrrfessorrr-Slothhh](https://github.com/ashtonckj/Purrrfessorrr-Sloth
 
 ---
 
-## 📫 Contact  
+## 📫 Contact
 https://www.linkedin.com/in/ashtonckj/
