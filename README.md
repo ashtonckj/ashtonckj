@@ -34,9 +34,17 @@ Adobe Premiere Pro · Canva · Figma
 
 ## Open Source Contributions
 
+### 🪶 XERJ Corpus Hub
+
 <a href="https://hub.xerj.org/contributors/ashtonckj"><img alt="XERJ Corpus Hub contributor" src="https://img.shields.io/badge/XERJ%20Corpus%20Hub-contributor-b7bdf8?style=for-the-badge&labelColor=363a4f&cacheSeconds=86400"/></a>
 
 Recognised as a contributor to the XERJ Corpus Hub through my work on [Classic ASP Language Support](https://github.com/ashtonckj/Classic-ASP-Language-Support).
+
+### 🐈 Hacktoberfest 2026
+
+<a href="https://dev.to/ashtonckj/we-built-a-pixel-art-office-where-five-cats-do-your-data-analysis-while-a-sloth-naps-2mld"><img alt="Hacktoberfest 2026 contributor" src="https://img.shields.io/badge/Hacktoberfest-2026-orange?labelColor=383838&style=for-the-badge"/></a>
+
+Created [Purrrfessorrr-Slothhh](https://github.com/ashtonckj/Purrrfessorrr-Slothhh), a playful, pixel-art-inspired data analysis application featuring five helpful cats and one sleepy sloth.
 
 ---
 
