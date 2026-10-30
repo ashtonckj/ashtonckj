@@ -44,7 +44,7 @@ Recognised as a contributor to the XERJ Corpus Hub through my work on [Classic A
 
 <a href="https://hacktoberfest.com"><img alt="Hacktoberfest 2026" src="https://img.shields.io/badge/Hacktoberfest-2026-orange?labelColor=383838&style=for-the-badge"/></a>
 
-Created [Purrrfessorrr-Slothhh](https://github.com/ashtonckj/Purrrfessorrr-Slothhh) and [Ghostlet](https://github.com/ashtonckj/ghostlet), a playful, pixel-art-inspired data analysis application featuring five helpful cats and one sleepy sloth.
+Developed two creative projects, [Purrrfessorrr-Slothhh](https://github.com/ashtonckj/Purrrfessorrr-Slothhh) and [Ghostlet](https://github.com/ashtonckj/ghostlet), exploring playful and interactive experiences through pixel art, creativity, and code.
 
 ---
 
