@@ -42,9 +42,9 @@ Recognised as a contributor to the XERJ Corpus Hub through my work on [Classic A
 
 ### 🐈 Hacktoberfest 2026
 
-<a href="https://dev.to/ashtonckj/we-built-a-pixel-art-office-where-five-cats-do-your-data-analysis-while-a-sloth-naps-2mld"><img alt="Hacktoberfest 2026 contributor" src="https://img.shields.io/badge/Hacktoberfest-2026-orange?labelColor=383838&style=for-the-badge"/></a>
+<a href="https://hacktoberfest.com"><img alt="Hacktoberfest 2026" src="https://img.shields.io/badge/Hacktoberfest-2026-orange?labelColor=383838&style=for-the-badge"/></a>
 
-Created [Purrrfessorrr-Slothhh](https://github.com/ashtonckj/Purrrfessorrr-Slothhh), a playful, pixel-art-inspired data analysis application featuring five helpful cats and one sleepy sloth.
+Created [Purrrfessorrr-Slothhh](https://github.com/ashtonckj/Purrrfessorrr-Slothhh) and [Ghostlet](https://github.com/ashtonckj/ghostlet), a playful, pixel-art-inspired data analysis application featuring five helpful cats and one sleepy sloth.
 
 ---
 
